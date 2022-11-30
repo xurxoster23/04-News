@@ -1,3 +1,4 @@
 Start Proyect 'News' -- Move folders
 New Services to read NewsApi
 Change HardCode Url NewsApi
+Interface to management of the information
